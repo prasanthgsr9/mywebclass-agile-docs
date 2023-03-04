@@ -4,7 +4,7 @@ Description: Develop a basic website template for MyWebClass.org that meets all 
 Goal: Create a website template that is easy to use, meets all requirements, and is optimized for search engines.
 
 Title: Develop a Website Template for MyWebClass.org
-Description: Develop a basic website template for MyWebClass.org that meets all technical and legal requirements, including Google Analytics integration, on-page SEO optimization, and compliance with GDPR regulations. The website should also be validated using W3C and Lighthouse and be able to be listed in search engines.
+Description: Develop a basic website template for  MyWebClass.org that meets all technical and legal requirements, including Google Analytics integration, on-page SEO optimization, and compliance with GDPR regulations. The website should also be validated using W3C and Lighthouse and be able to be listed in search engines.
 
 Goals:
 Develop a website template that is easy to use, meets all requirements, and is optimized for search engines.
