@@ -42,7 +42,7 @@ The website ensures that all third-party plugins and scripts comply with GDPR re
 As a website owner, I want to ensure that the website passes W3C and Lighthouse validation so that I can be confident that the website meets all technical standards and is optimized for performance.
 Acceptance Criteria:
 The website passes the W3C HTML and CSS validators without any errors or warnings.
-The website scores at least 90 on Lighthouse performance audit, including accessibility, best practices.
+The website scores at least 90 on  Lighthouse performance audit, including accessibility, best practices.
 Any errors or warnings identified during validation are addressed and resolved to ensure compliance with standards.
 
 
