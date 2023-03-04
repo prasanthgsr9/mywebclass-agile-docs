@@ -11,4 +11,4 @@ Title: MyWebClass.org Website Development
 
 Description: Develop a basic website template for MyWebClass.org that meets all technical and legal requirements, including Google Analytics integration, on-page SEO optimization, and compliance with GDPR regulations. The website should also be validated using W3C and Lighthouse and be able to be listed in search engines.
 
-Goal: Create a user-friendly and optimized website that meets all technical and legal   requirements, and helps achieve the  goals of MyWebClass.org.
+Goal: Create a user-friendly and optimized website that meets all technical and legal requirements, and helps achieve the  goals of MyWebClass.org.
