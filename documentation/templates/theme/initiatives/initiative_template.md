@@ -57,6 +57,5 @@ Team:
 Teammate 1: PVS Harshith
 Teammate 2: GSR Prasanth
 
-
 # List epics related to this theme
 1. [Epic 1](documentation/templates/theme/initiatives/epics/epic_template.md)
