@@ -12,7 +12,7 @@ As a website owner, I want to ensure that the website is GDPR compliant.
 As a website owner, I want to ensure that the website passes W3C and Lighthouse validation.
 Dependencies:
 Availability of the development team.
-Availability of required resources like web hosting, domain name, and SSL certificate.
+Availability of required resources  like web hosting, domain name, and SSL certificate.
 Risks:
 Delay in development due to unexpected technical issues.
 Inadequate user testing resulting in poor user experience.
