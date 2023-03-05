@@ -1,3 +1,4 @@
+
 Initiative Template:
 Title: Develop a Website Template
 Description: Develop a basic website template for MyWebClass.org that meets all technical and legal requirements, including Google Analytics integration, on-page SEO optimization, and compliance with GDPR regulations. The website should also be validated using W3C and Lighthouse and be able to be listed in search engines.
@@ -57,6 +58,7 @@ Collaboration with legal experts and resources for GDPR compliance
 Team:
 Teammate 1: PVS Harshith
 Teammate 2: GSR Prasanth
+
 
 # List epics related to this theme
 1. [Epic 1](documentation/templates/theme/initiatives/epics/epic_template.md)
