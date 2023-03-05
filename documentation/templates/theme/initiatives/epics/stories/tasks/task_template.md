@@ -60,4 +60,4 @@ Effort Estimate: 8 hours
 Assigned To: Myself
 Priority: High
 Status: not started
-Notes: Some of the fixes required for validation may impact the design and functionality of the website. These changes will need to be discussed with the project manager and reviewed by the website owner before implementation.
+Notes: Some of the fixes  required for validation may impact the design and functionality of the website. These changes will need to be discussed with the project manager and reviewed by the website owner before implementation.
