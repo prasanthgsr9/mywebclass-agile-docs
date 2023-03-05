@@ -1,3 +1,4 @@
+
 1)Task Title: Design website navigation menu
 User Story: As a website user, I want to easily navigate through the website so that I can find the information I need quickly.
 Description: Design a clear and intuitive navigation menu for the website that is easily accessible from any page. The menu should include links to all major sections of the website and should be organized in a logical manner. The menu should be responsive and work well on all screen sizes. Acceptance criteria include:
@@ -65,3 +66,4 @@ Priority: High
 Status: not started
 Notes: Some of the fixes  required for validation may impact the design and functionality of the website. These changes will need to be discussed with the project manager and reviewed by the website owner before implementation.
 Testing Method: fall under both manual and automated testing.
+

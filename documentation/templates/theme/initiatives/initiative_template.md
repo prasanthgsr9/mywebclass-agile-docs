@@ -1,3 +1,4 @@
+
 Initiative Template:
 Title: Develop a Website Template
 Description: Develop a basic website template for MyWebClass.org that meets all technical and legal requirements, including Google Analytics integration, on-page SEO optimization, and compliance with GDPR regulations. The website should also be validated using W3C and Lighthouse and be able to be listed in search engines.
@@ -40,6 +41,7 @@ Limited availability of team members due to other commitments
 Assumptions:
 All necessary resources and tools will be available for the team to complete the project
 Team members will be able to complete assigned tasks within the given timeline
+The website owner might want to run these tests on a quarterly basis to ensure that the website remains up-to-date and optimized for performance.
 
 Risks:
 Technical issues or errors during website development and integration
