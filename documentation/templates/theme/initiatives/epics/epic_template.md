@@ -1,3 +1,4 @@
+
 Title of the Epic: Develop MyWebClass.org Website Template
 Description: Develop a basic website template for MyWebClass.org that meets all technical and legal requirements, including Google Analytics integration,and compliance with GDPR regulations. The website should also be validated using W3C and Lighthouse and be able to be listed in search engines.
 Goals:
