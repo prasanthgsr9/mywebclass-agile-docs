@@ -10,6 +10,7 @@ Assigned To: Myself
 Priority: High
 Status: Not Started
 Notes: The design should be consistent with the overall look and feel of the website. Any changes to the design should be reviewed by the product owner before implementation.
+Testing Method: Manual testing is used for this task
 
 2)Task Title: Design and Implement Website Template
 User Story: As a website user, I want to have a consistent and visually appealing design across all pages of the website.
@@ -19,7 +20,7 @@ Assigned To: Myself
 Priority: High
 Status: Not Started
 Notes: Stakeholder feedback on the design is pending
-
+Testing Method: Both Manual and Automated testing is used for this task depending on the approach taken.
 
 3)Task Title: Integrate Google Analytics tracking code into website
 User Story: As a website owner, I want to be able to track user behavior on the website using Google Analytics.
@@ -34,6 +35,7 @@ Assigned To: Myself
 Priority: High
 Status: Not started
 Notes: The Google Analytics tracking ID will be provided by the website owner. The web developer should ensure that the tracking code is implemented correctly and that it does not impact website performance.
+Testing Method: Combination of manual and automated testing, depending on the specific requirements and complexity of the testing.
 
 4)Task Title: Ensure GDPR Compliance
 User Story: As a website owner, I want to ensure that the website is GDPR compliant.
@@ -48,6 +50,7 @@ Assigned To: Web Development Team
 Priority: High
 Status: Not Started
 Notes: This task is critical to ensuring that the website is in compliance with GDPR regulations and protecting user data privacy. It should be completed as soon as possible.
+Testing Method: combination of automated and manual testing approaches, depending on the specific requirements and complexity of the application being tested.
 
 5)Task Title: Validate website with W3C and Lighthouse
 User Story: As a website owner, I want to ensure that the website passes W3C and Lighthouse validation.
@@ -61,3 +64,4 @@ Assigned To: Myself
 Priority: High
 Status: not started
 Notes: Some of the fixes  required for validation may impact the design and functionality of the website. These changes will need to be discussed with the project manager and reviewed by the website owner before implementation.
+Testing Method: fall under both manual and automated testing.
